@@ -48,3 +48,5 @@ App deployed using the free Streamlit Community Cloud.
 
 👤 Contact - hariom231b125@gmail.com / +918859321534
 HARIOM YADAV - https://github.com/HARIOM8859
+linkdin - https://www.linkedin.com/in/hariom-yadav-3a729a278/
+
